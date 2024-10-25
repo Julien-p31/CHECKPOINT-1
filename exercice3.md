@@ -17,6 +17,6 @@
 
 **Question 8 :** CD : ``Set-Location`` | CP : ``Copy-Item`` | MKDIR : ``New-Item`` | LS : ``Get-ChildItem``
 
-**Question 9 :** Payload en anglais ça veut dire ``Charge utile`` qui va servir à queulque choses mais je sais plus à quoi ça correspond sur la trame Ethernet...
+**Question 9 :** Payload en anglais ça veut dire ``Charge utile`` qui va servir à quelque choses mais je sais plus à quoi ça correspond sur la trame Ethernet...
 
 **Question 10 :** Parce que c'est plus à la mode, je sais pas T-T
