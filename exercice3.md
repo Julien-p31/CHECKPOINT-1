@@ -11,7 +11,7 @@
 
 **Question 5 :** ``echo`` ``-e`` "Malgré le prix élevé de 100$, il a dit ``\``"Bonjour !``\``" au vendeur :``\n``- ``\``"Bonjour est-ce que ce clavier fonctionne bien ?``\``"``\n``- ``\``"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !``\``"``\n``- ``\``"Même des tildes ~ ?``\``"``\n``- ``\``"Evidemment !``\``""
 
-**Question 6 :** Aucune idée...
+**Question 6 :** ``Jobs -l gedit``
 
 **Question 7 :** Les routeurs qui vont permettrent de diffuser sur plusieurs réseaux. Les switchs qui vont diffuser un réseau d'une machine à une autre. (Vraiment pas sur, on est clairement sur du Youpi matin)
 
