@@ -10,7 +10,7 @@ fi
 # Création des utilisateurs avec une boucle
 for users in "$@";
 do
-    if cat /etc/passwd | grep -a "^$users:"
+    if cat /etc/passwd | grep -a "^$users:";
     then
           echo "L'utilisateur $users existe déjà"
     else
