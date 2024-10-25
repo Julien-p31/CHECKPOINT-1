@@ -1,0 +1,8 @@
+![PARTITIONNAGE SDB1 ET SDB2](https://github.com/user-attachments/assets/5ed634ed-8896-4a8d-bc79-9ad28249d187)
+![PARTITIONNAGE SDB1 ET SDB2 (2)](https://github.com/user-attachments/assets/458f6aa8-6750-473b-9fb3-6f602c83b7a4)
+![CREATION EXT4 et SWAP](https://github.com/user-attachments/assets/19c4b5f5-0a69-4182-9278-07fc2e48a7ed)
+![CREATION DOSSIER DATA DANS MOUNT](https://github.com/user-attachments/assets/b69dcf24-30c2-411a-b341-f0af4293381a)
+![MONTAGE DATA ET SWAP](https://github.com/user-attachments/assets/e23ef321-be2c-4e6f-9c5e-29bf1fff7668)
+![UUID BLKID](https://github.com/user-attachments/assets/0c9d90d8-03e5-4718-8020-f5227f2a13c6)
+![UUID EXT4 et SWAP](https://github.com/user-attachments/assets/9c7f82c6-d49e-41c4-b098-8011678ad5df)
+![AUCUNE ERREUR MOUNT](https://github.com/user-attachments/assets/4364aade-6900-4f2a-99a5-342e2e3986ed)
