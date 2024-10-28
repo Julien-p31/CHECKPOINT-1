@@ -4,5 +4,5 @@
 ![CREATION DOSSIER DATA DANS MOUNT](https://github.com/user-attachments/assets/b69dcf24-30c2-411a-b341-f0af4293381a)
 ![MONTAGE DATA ET SWAP](https://github.com/user-attachments/assets/e23ef321-be2c-4e6f-9c5e-29bf1fff7668)
 ![UUID BLKID](https://github.com/user-attachments/assets/0c9d90d8-03e5-4718-8020-f5227f2a13c6)
-![UUID EXT4 et SWAP](https://github.com/user-attachments/assets/9c7f82c6-d49e-41c4-b098-8011678ad5df)
-![AUCUNE ERREUR MOUNT](https://github.com/user-attachments/assets/4364aade-6900-4f2a-99a5-342e2e3986ed)
+![PARTITION SWAP](https://github.com/user-attachments/assets/00c8d7b0-1d71-4312-a8c1-dae5d105289d)
+![ACUNE ERREUR MOUNT](https://github.com/user-attachments/assets/947a3654-ce37-4707-93d1-8db99b597b44)
