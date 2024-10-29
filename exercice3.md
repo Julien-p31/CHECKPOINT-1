@@ -16,4 +16,4 @@
 
 9 : C'est la partie qui va contenir les données importantes, celles que l'on veut vraiment envoyer, comme un message ou un fichier.
 
-10 : Eviter le gaspillage d'adresses IP et rapidité de transfert de données.
+10 : Eviter le gaspillage d'adresses IP et le CIDR permet de redimensionner les réseaux au besoin.
