@@ -14,6 +14,6 @@
 
 8) : CD : ``Set-Location`` | CP : ``Copy-Item`` | MKDIR : ``New-Item`` | LS : ``Get-ChildItem``
 
-9) : C'est la partie qui va contenir les données utiles à transmettre.
+9) : C'est la partie qui va contenir les données importantes, celles que l'on veut vraiment envoyer, comme un message ou un fichier.
 
 10) : Eviter le gaspillage d'adresses IP et rapidité de transfert de données.
